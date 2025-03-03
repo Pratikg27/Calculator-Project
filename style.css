@@ -35,7 +35,7 @@
 }
 #clear {
     background-color: rgb(255, 99, 71 , 0.4);
-    color: white;
+    color: white(165, 151, 151);
 }
 form #output {
     display: flex;
